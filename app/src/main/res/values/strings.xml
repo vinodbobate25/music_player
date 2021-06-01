@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Player App</string>
+    <string name="title_home">Home</string>
+    <string name="title_recent">Recently Played</string>
+</resources>
