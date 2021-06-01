@@ -1,6 +1,6 @@
 # Music Plate App
 <img src="readme/player.gif" alt="player git" width="980" />
-<img src="readme/screeshot.png" alt="player screenshot" witdh="320" />
+<img src="readme/screeshot.png" alt="player screenshot" witdh="100" />
 
 A demo project to share my learnings
 
