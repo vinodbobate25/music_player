@@ -17,6 +17,9 @@ data class RecentMusic(
 	@SerializedName("album")
 	val album: String? = null,
 
+
+
+
 	@ColumnInfo(name="image_url")
 	@SerializedName("image_url")
 	val imageUrl: String? = null,
