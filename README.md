@@ -1,5 +1,6 @@
 # Music Plate App
-<img src="readme/player.gif" alt="Jetpack Compose Samples" width="1024" />
+<img src="readme/player.gif" alt="player git" width="980" />
+<img src="readme/screenshot.png" alt="palyer screenshot" />
 
 A demo project to share my learnings
 
