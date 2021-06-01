@@ -1,4 +1,5 @@
 # Music Plate App
+<img src="readme/player.gif" alt="Jetpack Compose Samples" width="1024" />
 
 A demo project to share my learnings
 
