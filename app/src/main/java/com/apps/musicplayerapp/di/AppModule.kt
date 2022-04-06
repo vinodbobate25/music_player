@@ -59,10 +59,6 @@ class AppModule {
         ).build()
     }
 
-
-
-
-
     @Provides
     @Singleton
     fun provideDBHelper(dbHelper: DatabaseHelperImpl): DatabaseHelper = dbHelper
